@@ -34,8 +34,8 @@ wpscan --url http://127.0.0.1:31337 -e u
 
 ![image](https://github.com/user-attachments/assets/4dec1901-cf21-4b89-a566-4cd2dfba06aa)
 
-#### Ayuda
+#### Practicar
 
-En el caso de que queramos probar el script de fuerza bruta podríamos usar el recurso [DVWP](https://github.com/vavkamil/dvwp) el cual nos monta unos contenedores con un WordPress para realizar pruebas.
+#### En el caso de que queramos probar el script de fuerza bruta podríamos usar el recurso [DVWP](https://github.com/vavkamil/dvwp) el cual nos monta unos contenedores con un WordPress para realizar pruebas.
 
-También podríamos usar el laboratorio **WalkingCMS** de [DockerLabs](https://dockerlabs.es) creado por el [El Pinguino De Mario](https://github.com/Maalfer)
+#### También podríamos usar el laboratorio **WalkingCMS** de [DockerLabs](https://dockerlabs.es) creado por el [El Pinguino De Mario](https://github.com/Maalfer)
