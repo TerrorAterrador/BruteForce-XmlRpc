@@ -16,6 +16,10 @@ Las opciones son las siguientes:
 wget https://raw.githubusercontent.com/TerrorAterrador/BruteForce-XmlRpc/main/brute-force-xmlrpc.sh
 ```
 
+```shell
+chmod +x brute-force-xmlrpc.sh
+```
+
 ---
 
 ## Ejemplo Práctico
