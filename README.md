@@ -10,7 +10,7 @@ Las opciones son las siguientes:
 
 ---
 
-## Descargar
+## Uso
 
 ```shell
 wget https://raw.githubusercontent.com/TerrorAterrador/BruteForce-XmlRpc/main/brute-force-xmlrpc.sh
