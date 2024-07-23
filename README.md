@@ -16,6 +16,8 @@ Las opciones son las siguientes:
 wget https://raw.githubusercontent.com/TerrorAterrador/BruteForce-XmlRpc/main/brute-force-xmlrpc.sh
 ```
 
+---
+
 ## Ejemplo Práctico
 
 ```shell
@@ -23,6 +25,8 @@ wget https://raw.githubusercontent.com/TerrorAterrador/BruteForce-XmlRpc/main/br
 ```
 
 ![image](https://github.com/user-attachments/assets/0a854469-11c9-407a-8fdd-28cb2d7861ed)
+
+---
 
 ## WpScan
 
@@ -33,6 +37,8 @@ wpscan --url http://127.0.0.1:31337 -e u
 ```
 
 ![image](https://github.com/user-attachments/assets/4dec1901-cf21-4b89-a566-4cd2dfba06aa)
+
+---
 
 #### Practicar
 
