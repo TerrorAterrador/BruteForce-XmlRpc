@@ -50,6 +50,8 @@ wpscan --url http://127.0.0.1:31337 -e u
 
 ##### También podríamos usar el laboratorio **WalkingCMS** de [DockerLabs](https://dockerlabs.es) creado por el [El Pinguino De Mario](https://github.com/Maalfer)
 
+---
+
 ### Advertencia legal
 
 Este software está destinado solo para uso personal y debe utilizarse únicamente en entornos controlados y con autorización previa. El empleo de esta herramienta en sistemas o redes sin la debida autorización puede ser ilegal y contravenir políticas de seguridad. El desarrollador no se hace responsable de daños, pérdidas o consecuencias resultantes de su uso inapropiado o no autorizado. Antes de utilizar esta herramienta, asegúrate de cumplir con todas las leyes y regulaciones locales pertinentes.
